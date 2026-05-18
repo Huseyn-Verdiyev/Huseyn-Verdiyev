@@ -124,7 +124,7 @@ Also ants. Ants are genuinely fascinating and I will not apologize for that. The
 If you want to talk about operating systems, compiler design, AI, the meaning of life, why ants are smarter than we think, or literally anything else — reach out.
 
 - 📧 **Email**: [huseynverdiyev12@gmail.com](mailto:huseynverdiyev12@gmail.com)
-- 💼 **LinkedIn**: [Hüseyn Verdiyev](https://www.linkedin.com/in/huseyn-verdiyev)
+- 💼 **LinkedIn**: [Hüseyn Verdiyev](https://az.linkedin.com/in/h%C3%BCseyn-verdiyev-574606404)
 
 ---
 
