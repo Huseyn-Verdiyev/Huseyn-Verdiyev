@@ -84,6 +84,18 @@ But hey — gold medal. International-level qualification. That's real, regardle
 
 ---
 
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+---
+
 ## 🔭 What I'm Building Right Now
 
 - 🖥️ **HuseynOS** — still working on it, still loving every painful, confusing, rewarding minute of it
@@ -112,9 +124,14 @@ Also ants. Ants are genuinely fascinating and I will not apologize for that. The
 If you want to talk about operating systems, compiler design, AI, the meaning of life, why ants are smarter than we think, or literally anything else — reach out.
 
 - 📧 **Email**: [huseynverdiyev12@gmail.com](mailto:huseynverdiyev12@gmail.com)
+- 💼 **LinkedIn**: [Hüseyn Verdiyev](https://www.linkedin.com/in/huseyn-verdiyev)
 
 ---
 
 <div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=Huseyn-Verdiyev&show_icons=true&theme=transparent&hide_border=true&title_color=blue" alt="Huseyn's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyn-Verdiyev&layout=compact&theme=transparent&hide_border=true&title_color=blue" alt="Top Languages" />
+  <br /><br />
   <img src="https://komarev.com/ghpvc/?username=Huseyn-Verdiyev&color=blue" alt="Profile Views" />
 </div>
