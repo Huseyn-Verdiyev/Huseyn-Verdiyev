@@ -131,7 +131,7 @@ If you want to talk about operating systems, compiler design, AI, the meaning of
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huseyn-Verdiyev&theme=transparent&hide_border=true&title_color=blue" alt="Huseyn's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyn-Verdiyev&layout=compact&theme=transparent&hide_border=true&title_color=blue" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Huseyn-Verdiyev&layout=compact&theme=transparent&hide_border=true&title_color=blue" alt="Top Languages" />
   <br /><br />
   <img src="https://komarev.com/ghpvc/?username=Huseyn-Verdiyev&color=blue" alt="Profile Views" />
 </div>
