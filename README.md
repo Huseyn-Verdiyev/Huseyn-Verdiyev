@@ -8,7 +8,7 @@
 
 ## 📖 How It All Started
 
-Okay so, let me actually tell you how all of this happened. Because it's kind of a weird story. But in the best way possible. No cap.
+Okay so, let me actually tell you how all of this happened. Because it's kind of a weird story, but in the best way possible.
 
 I've always been that person who gets deeply, *obsessively* curious about random things. And I mean everything. Like, I'd spend an entire afternoon just watching ants carry food and genuinely thinking about how they coordinate without a central command. Or I'd look up at the night sky and end up down a 3-hour rabbit hole about the size of the observable universe and what "infinity" even means. Philosophy, creation, electronics, nature, physics, the origin of languages — if it exists, I've probably been curious about it at some point.
 
@@ -20,7 +20,7 @@ And then one day — I remember it pretty clearly — I just thought to myself: 
 
 So I started. From zero. No prior OS dev experience. Just documentation, some books, a lot of confusion, and a lot of time. And I actually built it — **HuseynOS**. My own operating system. Running on my own hardware. 
 
-That feeling of booting into something you built yourself? Ngl, I can't describe it properly. It's just... different. Hit different fr.
+That feeling of booting into something you built yourself? I can't describe it properly. It was just a completely different feeling.
 
 > *The first time HuseynOS actually booted, I screamed. My mom ran in thinking something exploded. I tried to explain what an operating system was. She nodded politely. She definitely didn't understand a word. But she stayed in the room anyway, listening to me ramble about bootloaders for 20 minutes straight. That kind of support? That's everything.*
 
@@ -103,7 +103,7 @@ Also basketball. I genuinely love basketball. I'm not saying I'm going to the NB
 
 > *Picture this: Intense pickup game. Down by one. Ten seconds left. The whole court is watching. I get the ball. I look the defender dead in the eyes, give him that 'I got this' nod. I do this absolutely nasty crossover—completely lose him. The crowd (three guys sitting on a bench) goes "ooooh". I pull up for the majestic, game-winning buzzer-beater... and completely airball it. Like, it didn't even hit the rim, it just gracefully floated out of bounds into the parking lot. The silence that followed was deafening. One of the guys on the bench just stood up and said, "Bro... why?" I just picked up my water bottle and walked home. I still think about it at 2 AM.*
 
-Also ants. Ants are genuinely fascinating and I will not apologize for that. They're lowkey goated.
+Also ants. Ants are genuinely fascinating and I will not apologize for that. They're genuinely incredible creatures.
 
 ---
 
