@@ -101,7 +101,7 @@ I care about understanding things deeply. Not just how to use a tool, but why it
 
 Also basketball. I genuinely love basketball. There's something about the game — the strategy, the movement, the way a perfectly timed play just *clicks* — that feels a lot like debugging a good system. You see the problem, you react, you adapt. I respect it.
 
-> *Picture this: Intense pickup game. Down by one. Ten seconds left on the clock. Everyone is sweating. I get the ball. I look the defender dead in the eyes. I do this crazy crossover, pull up for the game-winning shot... and completely hit the side of the backboard. Total silence on the court. My teammate just looks at me and goes, "Bro, did your compiler just panic?" I literally just walked off the court. We don't talk about that game.*
+> *Picture this: Intense pickup game. Down by one. Ten seconds left. The whole court is watching. I get the ball. I look the defender dead in the eyes, give him that 'I got this' nod. I do this absolutely nasty crossover—break his ankles, almost break my own ankles—pull up for the majestic game-winning buzzer-beater... and throw the ball straight over the backboard into a bush. Total, dead silence. My teammate just stares at me for a solid five seconds and goes, "Bro... did your OS just blue screen?" I literally walked straight home without making eye contact with anyone. I haven't been back to that court since.*
 
 Also ants. Ants are genuinely fascinating and I will not apologize for that. They're lowkey goated.
 
