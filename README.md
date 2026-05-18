@@ -12,6 +12,8 @@ Okay so, let me actually tell you how all of this happened. Because it's kind of
 
 I've always been that person who gets deeply, *obsessively* curious about random things. And I mean everything. Like, I'd spend an entire afternoon just watching ants carry food and genuinely thinking about how they coordinate without a central command. Or I'd look up at the night sky and end up down a 3-hour rabbit hole about the size of the observable universe and what "infinity" even means. Philosophy, creation, electronics, nature, physics, the origin of languages — if it exists, I've probably been curious about it at some point.
 
+> *Side note: One time I got so deep into watching ants that I genuinely lost track of 2 hours. The ants did not notice. They kept working. Honestly respect.*
+
 But somewhere along the way, I got really into software. Not just "let me build a website" kind of software, but the deep stuff. The stuff that happens before your code even runs. How does a computer actually *work*? What even is an operating system, really? Why do programming languages look the way they do? Who decided all of this?
 
 And then one day — I remember it pretty clearly — I just thought to myself: *"it would be kinda cool to have my own OS running on my own machine."* Not because someone told me to. Not because there was a course or a tutorial. Just... because it seemed like a vibe. .D
@@ -20,7 +22,11 @@ So I started. From zero. No prior OS dev experience. Just documentation, some bo
 
 That feeling of booting into something you built yourself? Ngl, I can't describe it properly. It's just... different. Hit different fr.
 
+> *The first time HuseynOS actually booted, I screamed. My mom ran in thinking something exploded. I tried to explain what an operating system was. She nodded politely. She definitely didn't understand a word. But she stayed in the room anyway, listening to me ramble about bootloaders for 20 minutes straight. That kind of support? That's everything.*
+
 But of course, once you build an OS, you realize you need tools. You start needing a standard library. So I built one. And then — because why not at this point — I thought: *"What if I had my own programming language?"* And so **Verd** was born. A whole programming language. Lexer, parser, type system, all of it. From scratch. Written by me. Because I was curious.
+
+> *There was a bug in Verd's parser that I spent 3 days hunting down. Three. Days. I rewrote sections, questioned my entire approach, stared at the ceiling at 2am reconsidering my life choices. The bug? A missing semicolon. In the compiler. That I wrote. With my own hands. I sat in silence for a full minute after finding it. Then I fixed it and moved on like nothing happened. We don't talk about those 3 days.*
 
 That's kind of my entire personality summed up, honestly. I get curious. I go build it. I learn 10 other things along the way. I get curious about those too. And the cycle continues. .D
 
@@ -92,6 +98,10 @@ But hey — gold medal. International-level qualification. That's real, regardle
 If you're wondering what kind of person writes their own OS for fun — it's this kind:
 
 I care about understanding things deeply. Not just how to use a tool, but why it works the way it does. I care about building things that are truly mine, from the ground up. I care about the intersection of technology and everything else — philosophy, nature, language, systems, the universe. I genuinely think all of these things are connected somehow, and figuring out *how* they're connected is basically what I spend my time thinking about.
+
+Also basketball. I genuinely love basketball. There's something about the game — the strategy, the movement, the way a perfectly timed play just *clicks* — that feels a lot like debugging a good system. You see the problem, you react, you adapt. I respect it.
+
+> *I once tried to explain to someone why basketball and systems architecture are basically the same thing. They looked at me the way my mom looked at me when I explained what an OS is. I stood by my point.*
 
 Also ants. Ants are genuinely fascinating and I will not apologize for that. They're lowkey goated.
 
