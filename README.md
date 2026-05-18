@@ -99,9 +99,9 @@ If you're wondering what kind of person writes their own OS for fun — it's thi
 
 I care about understanding things deeply. Not just how to use a tool, but why it works the way it does. I care about building things that are truly mine, from the ground up. I care about the intersection of technology and everything else — philosophy, nature, language, systems, the universe. I genuinely think all of these things are connected somehow, and figuring out *how* they're connected is basically what I spend my time thinking about.
 
-Also basketball. I genuinely love basketball. There's something about the game — the strategy, the movement, the way a perfectly timed play just *clicks* — that feels a lot like debugging a good system. You see the problem, you react, you adapt. I respect it.
+Also basketball. I genuinely love basketball. I'm not saying I'm going to the NBA, but I play with a lot of confidence. Probably way too much confidence.
 
-> *Picture this: Intense pickup game. Down by one. Ten seconds left. The whole court is watching. I get the ball. I look the defender dead in the eyes, give him that 'I got this' nod. I do this absolutely nasty crossover—break his ankles, almost break my own ankles—pull up for the majestic game-winning buzzer-beater... and throw the ball straight over the backboard into a bush. Total, dead silence. My teammate just stares at me for a solid five seconds and goes, "Bro... did your OS just blue screen?" I literally walked straight home without making eye contact with anyone. I haven't been back to that court since.*
+> *Picture this: Intense pickup game. Down by one. Ten seconds left. The whole court is watching. I get the ball. I look the defender dead in the eyes, give him that 'I got this' nod. I do this absolutely nasty crossover—completely lose him. The crowd (three guys sitting on a bench) goes "ooooh". I pull up for the majestic, game-winning buzzer-beater... and completely airball it. Like, it didn't even hit the rim, it just gracefully floated out of bounds into the parking lot. The silence that followed was deafening. One of the guys on the bench just stood up and said, "Bro... why?" I just picked up my water bottle and walked home. I still think about it at 2 AM.*
 
 Also ants. Ants are genuinely fascinating and I will not apologize for that. They're lowkey goated.
 
