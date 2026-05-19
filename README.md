@@ -74,8 +74,6 @@ The Metro Hackathon was another university-dominated environment. I went in, com
 
 **🥇 USAOlympiad — English Language — Gold Medal**
 
-Okay so this one is a little funny. .D
-
 I competed in the USAOlympiad for English Language and somehow won a gold medal. Which meant I qualified for the final round. Which was held in *Miami*. 
 
 I did not make it to Miami. .D
